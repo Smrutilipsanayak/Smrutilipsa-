@@ -1,4 +1,4 @@
 # Smrutilipsa-
 This is my first repository 
-Author smrutilipsa Nayak 
+Author <br> smrutilipsa Nayak 
 Student at OUTR 
